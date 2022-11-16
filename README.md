@@ -9,3 +9,4 @@ This is a javascript game where you play a game of rugby at the 2023 world cup
 2. figure out filestructure (main.js)
 3. install node.js and set path
 4. pick a visualization something (D3)
+5. realize i need to HTML it and use this example [link](https://d3-graph-gallery.com/intro_d3js.html#:~:text=An%20introduction%20to%20d3.js%20in%2010%20basic%20examples.,Explanation%3A%20...%208%20Data%20binding%20%E2%86%92%20Explanation%3A%20) (hello.html)
